@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my blog: https://cesarvarela.com/blog/
+
 <!--
 **cesarvarela/cesarvarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
